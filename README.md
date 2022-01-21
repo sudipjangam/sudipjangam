@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudipjangam
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Data.
+- 🌱 I’m currently learning Data Stratergy
 - 💞️ I’m looking to collaborate on Data Analytics.
 
 <!---
