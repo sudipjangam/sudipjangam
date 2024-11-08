@@ -50,3 +50,5 @@ I am a Full-stack Web Developer exploring Cloud :cloud: while facilitating the w
 
 
 Let's connect 👨‍💻 and forge the future together.😁✌
+[instagram]: https://www.instagram.com/ordinary_boy.58/
+[linkedin]: https://www.linkedin.com/in/sudipjangam/
