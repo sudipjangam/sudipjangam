@@ -12,7 +12,6 @@ I am a Full-stack Web Developer exploring Cloud :cloud: while facilitating the w
  
  :books: I want to learn <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/> and <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
@@ -49,7 +48,6 @@ I am a Full-stack Web Developer exploring Cloud :cloud: while facilitating the w
 [<img align="left" alt="SudipJangam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
----
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
