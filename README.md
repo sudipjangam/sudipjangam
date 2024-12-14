@@ -43,12 +43,20 @@ I am a Full-stack Web Developer exploring Cloud :cloud: while facilitating the w
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Sudipjangam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [LINKEDIN]
+[<img align="left" alt="Sudipjangam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [Linkedin]
 [<img align="left" alt="Sudipjangam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
 
 <br/>
-
+---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
-[instagram]: https://www.instagram.com/ordinary_boy.58
-[LINKEDIN]: https://www.linkedin.com/in/sudipjangam
+
+**Check the Repositories and don't forget to give a star.** 👇
+
+:star: From [SudipJangam](https://github.com/sudipjangam)
+
+[website]: https://souravdey777.github.io/Portfolio/
+[twitter]: https://x.com/jangamsudip58
+[youtube]: https://youtube.com/
+[instagram]: https://www.instagram.com/ordinary_boy.58/
+[linkedin]: https://www.linkedin.com/in/sudipjangam/
