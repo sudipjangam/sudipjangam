@@ -43,8 +43,10 @@ I am a Full-stack Web Developer exploring Cloud :cloud: while facilitating the w
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Sudipjangam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [Linkedin]
-[<img align="left" alt="Sudipjangam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
+[<img align="left" alt="SudipJangam" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="SudipJangam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SudipJangam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SudipJangam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 ---
@@ -55,7 +57,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [SudipJangam](https://github.com/sudipjangam)
 
-[website]: https://souravdey777.github.io/Portfolio/
+[website]: https://portfolio-eight-tau-43.vercel.app/
 [twitter]: https://x.com/jangamsudip58
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/ordinary_boy.58/
